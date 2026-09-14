@@ -1,7 +1,7 @@
 # ⚡ SNAZY Optimizer
 
 <p align="center">
-  <img src="assets/screenshots/bannerv2.jpg" width="900" alt="SNAZY Optimizer">
+  <img src="assets/screenshots/bannerV2.22.jpg" width="900" alt="SNAZY Optimizer">
 </p>
 
 <h1 align="center">SNAZY Optimizer</h1>
