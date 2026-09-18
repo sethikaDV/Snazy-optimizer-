@@ -1,6 +1,6 @@
 # SNAZY Optimizer
 <p align="center">
-  <img src="assets/screenshots/bannerv2.jpg" width="900">
+  <img src="assets/screenshots/v3bgimage.jpg" width="900">
 </p>
 
 ### SNAZY Optimizer V3.0.1
