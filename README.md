@@ -1,7 +1,7 @@
 # 🚀 SNAZY Optimizer
 
 <p align="center">
-  <img src="assets/screenshots/banner.jpg" width="900">
+  <img src="assets/screenshots/V3.2Bgimage.jpg" width="900">
 </p>
 
 ### 🎮 SNAZY Optimizer V3.2.21
