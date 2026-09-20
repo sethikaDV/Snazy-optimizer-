@@ -1,5 +1,9 @@
 # 🚀 SNAZY Optimizer
 
+<p align="center">
+  <img src="assets/screenshots/banner.jpg" width="900">
+</p>
+
 ### 🎮 SNAZY Optimizer V3.2.21
 
 A lightweight Android gaming optimizer focused on smarter gaming settings, device optimization, and per-game display controls. ⚡📱
