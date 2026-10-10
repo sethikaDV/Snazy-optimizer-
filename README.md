@@ -1,428 +1,223 @@
-# 🚀 SNAZY Optimizer
-
+# 🚀 SNAZY Optimizer V4.2.8
 <p align="center">
   <img src="assets/V4banner.jpg" width="900">
 </p>
+### 🎮 The Ultimate In-Game Gaming Experience
 
-### 🎮 SNAZY Optimizer V4.0.2
+**SNAZY Optimizer V4.2.8** brings a new level of gaming convenience with the all-new **In-Game Super Panel Turbo**. Access essential gaming tools, manage your device, control settings, and customize your gaming experience without leaving your game.
 
-A powerful Android gaming optimizer focused on smarter performance optimization, real-time gaming customization, display control, charging optimization, and a more personalized user experience. ⚡📱
-
-SNAZY is designed to optimize your device around your gaming experience without modifying game files. 🛡️🎮
-
----
-
-# 🔥 V4.0.2 — Next Generation Gaming Update
-
-SNAZY Optimizer V4.0.2 introduces a major upgrade to the SNAZY gaming experience.
-
-This version brings:
-
-- 🎨 Real-Time Game Color Changer
-- 🎨 In-App Color Customization
-- 🔕 Smart DND / Gaming Do Not Disturb
-- 🔋 Charging Optimization
-- 📊 Floating Status Overlay
-- 👤 In-App Account System
-- 🔐 Google Login
-- ⚡ More Powerful Device Optimization
-- 🚀 Improved Boost System
-- 🧠 Smarter Gaming Controls
-- 💎 Improved SNAZY Pro Experience
+Built for gamers who want more control, better convenience, and a premium gaming interface. ⚡
 
 ---
 
-# 🆕 What's New
+## 🆕 What's New in V4.2.8
 
-## 🎨 1. Real-Time Game Color Changer
+### 🎮 In-Game Super Panel Turbo
 
-Customize your gaming display with real-time color adjustments. 🎮🌈
+Your gaming tools, all in one place!
 
-SNAZY V4.0.2 introduces a new system for changing the visual color experience while gaming.
+* ⚡ **Free Turbo Boost** — Quickly access available optimization features.
+* 🎵 **In-Game Music Player** — Enjoy your favorite music while gaming.
+* 📊 **In-Game Device Status** — Check supported device information during gameplay.
+* ⏱️ **Gaming Timer** — Keep track of your gaming sessions.
+* 🔕 **Do Not Disturb (DND)** — Reduce interruptions while playing.
+* 🔋 **Bypass Charging** — Use supported charging-control features while gaming.
+* 🎛️ **Control Settings** — Access available gaming controls quickly.
+* 🎥 **Screen Recorder** — Access screen recording tools without leaving your game.
+* 💎 **Premium UI** — Enjoy a refined, modern interface designed for gamers.
 
-### 🎨 Color Controls
+### ⚡ Free Turbo Boost
 
-Users can adjust supported display color settings to create their preferred gaming look.
+Get quick access to available performance optimization tools with Free Turbo Boost.
 
-Examples include:
+* Quick access to supported boost actions.
+* Convenient in-game controls.
+* Designed for a smoother gaming workflow.
+* No need to navigate through multiple screens for supported actions.
 
-- 🔴 Red
-- 🟢 Green
-- 🔵 Blue
-- 🟣 Purple
-- 🟡 Custom color profiles
+*Actual results depend on your device, Android version, and available permissions.*
 
-### ⚡ Real-Time Changes
+### 🎵 In-Game Music Player
 
-Color changes can be applied while gaming without requiring the user to manually restart the game.
+Keep your favorite music close while gaming.
 
-Create your own gaming atmosphere and personalize the way your screen looks. 🎮✨
+* Convenient music controls.
+* Control your listening experience while playing.
+* Enjoy your gaming sessions with your preferred soundtrack.
 
-⚠️ Color availability and behavior may vary depending on the device and Android version.
+### 📊 In-Game Device Status
 
----
+View supported device information while playing.
 
-# 🎨 2. SNAZY In-App Color Changer
+* Access useful device status information.
+* Monitor available device indicators.
+* Keep important information within reach.
 
-SNAZY V4.0.2 also introduces a new customization system for the SNAZY interface itself.
+The information available depends on device compatibility and granted permissions.
 
-### 🌈 Customize SNAZY
+### ⏱️ Gaming Timer
 
-Users can personalize the app's appearance by changing the main interface color.
+Manage your gaming sessions with the built-in timer.
 
-Customize:
+* Track session time.
+* Access the timer from the Super Panel.
+* Keep your gaming routine organized.
 
-- 🎨 Primary color
-- ✨ Accent color
-- 💎 Pro interface colors
-- 🔘 Buttons and controls
-- 🌈 Gaming interface elements
+### 🔕 Gaming Do Not Disturb
 
-Your SNAZY.  
-Your style. 💜
+Reduce unwanted interruptions during gameplay.
 
----
+* Quickly access DND controls.
+* Minimize distractions when supported.
+* Stay focused on your game.
 
-# 🔕 3. Smart DND — Gaming Do Not Disturb
+Some notification and DND controls may require additional Android permissions.
 
-Gaming without interruptions. 🎮🔕
+### 🔋 Bypass Charging
 
-SNAZY V4.0.2 introduces a dedicated **Gaming DND** system.
+Access charging-control features designed for supported devices.
 
-When enabled, SNAZY can help reduce interruptions during gaming sessions.
+* Convenient in-game charging controls.
+* Device-dependent charging functionality.
+* Designed to help manage charging during gaming sessions.
 
-### 🔕 Gaming DND
+**Important:** Bypass charging is not universally supported. Actual functionality depends on your phone's hardware, Android software, and available system-level access. The feature does not guarantee reduced heat or improved battery health.
 
-Before starting your game:
+### 🎛️ In-Game Control Settings
 
-1. 🔕 Enable Gaming DND.
-2. 🚀 Press Boost.
-3. 🎮 Launch your game.
-4. 🏆 Enjoy a cleaner gaming session.
+Quickly access supported controls through the Super Panel.
 
-This feature is designed to reduce unwanted notifications and interruptions while you play.
+* Convenient control access.
+* Less switching between app screens.
+* A gaming-focused control experience.
 
-### 🔄 Restore
+### 🎥 Screen Recorder
 
-When your gaming session is finished, DND can be disabled and your previous notification state can be restored.
+Capture your gameplay using the available screen recording functionality.
 
-⚠️ DND behavior depends on Android permissions and device manufacturer restrictions.
+* Quick access to recording controls.
+* Record gameplay when supported.
+* Useful for highlights, tutorials, and sharing gaming moments.
 
----
-
-# 🔋 4. Charging Optimization
-
-SNAZY V4.0.2 introduces new charging-focused controls designed to provide better control over your device while charging.
-
-### ⚡ Charging Optimization
-
-SNAZY can help manage charging-related behavior depending on supported device features.
-
-The goal is to:
-
-- 🔋 Improve charging management
-- 🌡️ Reduce unnecessary thermal stress
-- ⚡ Optimize charging sessions
-- 🛡️ Provide better battery-awareness
-
-### 🌡️ Temperature Awareness
-
-Battery temperature can be monitored to help users understand the device's thermal condition while charging or gaming.
-
-⚠️ Charging behavior depends heavily on the phone manufacturer, charger, battery controller, and Android version.
-
-SNAZY does not replace the phone's built-in battery protection system.
+Android may require screen-capture permission before recording begins.
 
 ---
 
-# 📊 5. Floating Status Overlay
+## 🎨 Previous Features — Still Part of the SNAZY Experience
 
-SNAZY V4.0.2 brings back a more advanced floating status experience. 📊⚡
+### 🎨 Real-Time Game Color Changer
 
-The floating overlay can provide useful device information while gaming.
+Customize your gaming visuals with supported color-changing options.
 
-### 📱 Status Information
+### 🎨 In-App Color Changer
 
-Depending on device support, the overlay can display information such as:
+Personalize the app's appearance to match your style.
 
-- 🎮 Gaming status
-- ⚡ Performance information
-- 🌡️ Battery temperature
-- 🔋 Battery level
-- 📱 Display information
-- 🚀 Optimization status
+### ⚡ Powerful Optimization Engine
 
-The overlay is designed to remain lightweight and avoid unnecessary distractions while gaming.
+Access supported optimization tools designed to help manage device resources during gaming.
 
----
+### 🎮 Per-Game Display Optimization
 
-# ⚡ 6. More Powerful Optimization Engine
+Configure supported display settings for individual games.
 
-V4.0.2 introduces a stronger optimization system compared with previous versions.
+* Available refresh-rate options.
+* Per-game render-resolution settings.
+* DPI scaling where supported.
+* Boost and Restore workflows.
+* Reset display settings when needed.
 
-SNAZY now focuses on multiple areas of the device:
+Display controls depend on device support and may require Root or Shizuku access.
 
-### 🧠 CPU Optimization
+### 🎯 Pro Sensitivity for Device
 
-- ⚡ Performance-focused controls
-- 🧹 Background workload management
-- 🚀 Gaming preparation
+Explore game-specific sensitivity starting points based on your selected game and device information.
 
-### 🎮 Gaming Optimization
+Supported game options may include:
 
-- 🚀 Improved Boost
-- 🎯 Game-specific settings
-- 📱 Display optimization
-- 🔕 Gaming DND
-- 📊 Floating status information
+* Free Fire
+* Free Fire MAX
+* PUBG Mobile
+* BGMI
+* Call of Duty: Mobile
 
-### 🧹 Background Optimization
+Suggested values are starting points, not guaranteed optimal or professionally measured settings. Fine-tune them in the game's training mode.
 
-SNAZY can manage supported background activity to help prepare the device for gaming.
+### 🧊 Background App Management
 
-Users can control which applications should remain available and which applications can be limited during a gaming session.
+Manage supported background-app actions to help reduce unnecessary activity during gaming.
 
----
+Use caution when restricting apps that handle notifications, calls, alarms, or important background tasks.
 
-# 🚀 7. Improved Boost System
+### 💎 SNAZY Pro
 
-The V4 Boost system combines multiple optimization features into one gaming workflow.
+Access supported premium features through the SNAZY Pro experience. Pro availability and individual features depend on the version and licensing status.
 
-When Boost is activated:
+### 🔐 SNAZY Account System
 
-1. 💾 Current supported settings are captured.
-2. ⚙️ Selected optimization settings are prepared.
-3. 📱 Display settings are applied.
-4. 🔕 Gaming DND can be enabled.
-5. 🧹 Background optimization can be applied.
-6. 🎨 Selected gaming display settings can be activated.
-7. 📊 Floating status can be started.
-8. 🎮 The device becomes ready for gaming.
+Access the available account features, including Google Login where supported by the installed version.
 
-### 🔄 Restore
+### 🔋 Charging Optimization
 
-After gaming:
+Use available charging-related controls where supported by your device.
 
-**Restore → Return supported settings to their previous state.**
+### 📊 Floating Status Overlay
 
-SNAZY is designed to make entering and leaving a gaming session easier.
+Access supported floating device information and status indicators when the required permissions are granted.
+
+### 🛠️ Smart Restore
+
+Restore display or other settings that SNAZY has saved and can safely restore. Some system changes may need to be reverted manually.
 
 ---
 
-# 👤 8. SNAZY Account System
+## 🔑 Root & Shizuku Support
 
-V4.0.2 introduces an in-app account system.
+SNAZY provides supported features according to your device's access level.
 
-Users can create and access their SNAZY account directly inside the application.
+* **Root:** Enables compatible advanced system controls.
+* **Shizuku:** Enables supported privileged operations after the service and permissions are configured.
+* **Non-root mode:** Provides features that can run without elevated system access.
 
-### 👤 Account Features
-
-The account system can be used for:
-
-- 👤 User identity
-- ☁️ Account-based settings
-- 💎 Pro account access
-- 🔐 License management
-- ⚙️ Personalized SNAZY experience
-
-This creates the foundation for future SNAZY cloud features.
+Not every feature is available in every mode. Shizuku access may need to be reconnected after a reboot or service interruption.
 
 ---
 
-# 🔐 9. Google Login
+## 🛡️ Compatibility & Important Notes
 
-SNAZY V4.0.2 introduces Google Sign-In.
-
-Users can quickly access SNAZY using their Google account.
-
-### 🔑 Google Login
-
-Instead of manually creating an account:
-
-**Continue with Google → Sign in → Start using SNAZY**
-
-Google authentication is handled through Google's authentication system.
-
-🔒 SNAZY does not receive your Google password.
+* Android compatibility depends on the feature and installed version.
+* Some functions require additional permissions.
+* Certain controls require Root, Shizuku, or manufacturer support.
+* Screen recording is subject to Android's screen-capture permissions.
+* Color changes and display controls may behave differently across devices.
+* Charging controls cannot bypass hardware limitations.
+* SNAZY does not guarantee a specific FPS increase or temperature reduction.
+* Always use Restore or your device's normal settings if a display configuration causes problems.
 
 ---
 
-# 💎 10. SNAZY Pro
+## 📦 Version Information
 
-SNAZY Pro continues to provide advanced features for users who want more control.
-
-Pro features may include:
-
-- 🎯 Pro Sensitivity
-- ⚡ Advanced optimization
-- 🎨 Advanced gaming customization
-- 📊 Advanced status tools
-- 🔋 Advanced battery features
-- 🎮 Additional gaming profiles
-- 💎 Pro-only controls
-
-### 🔐 License System
-
-SNAZY Pro uses a license-based system.
-
-Supported license durations include:
-
-- 📅 15 Days
-- 📅 30 Days
-
-Licenses are designed to be linked to the user's device/account according to the SNAZY licensing system.
+* **App:** SNAZY Optimizer
+* **Version:** V4.2.8
+* **Developer:** [@sethikaDV](https://github.com/sethikaDV)
+* **Repository:** [SNAZY Optimizer on GitHub](https://github.com/sethikaDV/Snazy-optimizer-)
 
 ---
 
-# 🎯 Pro Sensitivity
+## ❤️ Support the Project
 
-SNAZY's device-based sensitivity system continues to provide starting-point recommendations for supported games.
+If you enjoy using SNAZY Optimizer:
 
-### 🎮 Supported Games
-
-- 🔥 Free Fire
-- 🔥 Free Fire MAX
-- 🎯 PUBG Mobile
-- 🎯 BGMI
-- 🎮 Call of Duty: Mobile
-
-Sensitivity recommendations are calculated using device-related information and are intended as starting points.
-
-⚠️ Recommended values are not guaranteed to be perfect for every player.
-
-Players should test and fine-tune their settings in-game.
+* ⭐ Star the GitHub repository.
+* 🐛 Report bugs and compatibility issues.
+* 💡 Share ideas for future improvements.
+* 📢 Share SNAZY with fellow gamers.
 
 ---
 
-# 📱 Per-Game Display Optimization
+### 🚀 SNAZY Optimizer V4.2.8
 
-SNAZY continues to support per-game display configuration.
+**Play Smarter. Control More. Game Your Way.** 🎮⚡
 
-### ⚡ Refresh Rate
-
-Users can configure supported refresh rates for individual games.
-
-### 🎚️ Resolution
-
-Supported resolution profiles may include:
-
-- 🟢 90%
-- 🟢 80%
-- 🟡 70%
-- 🟠 60%
-- 🔴 50%
-
-### 📐 DPI Scaling
-
-SNAZY can scale DPI together with the selected resolution to help maintain a consistent interface size.
-
-⚠️ Display control depends on Android version and device manufacturer.
-
----
-
-# 🔐 Root & Shizuku
-
-SNAZY provides different levels of functionality depending on device access.
-
-### 👑 Root
-
-Root-enabled devices can access additional system-level optimization features.
-
-### 🔗 Shizuku
-
-Non-root users can use Shizuku for supported advanced operations.
-
-Some features require elevated access because Android does not allow normal applications to modify certain system settings.
-
-⚠️ Shizuku availability and behavior can vary between devices and Android versions.
-
----
-
-# 🛠️ Smart Restore
-
-SNAZY V4.0.2 focuses on making optimization safer and easier to undo.
-
-Before supported changes are applied, SNAZY can capture the relevant previous state.
-
-After gaming:
-
-**🔄 Restore**
-
-returns supported settings to their previous configuration.
-
-If something goes wrong:
-
-**🛠️ Reset / Restore**
-
-can be used to return supported settings to normal.
-
----
-
-# 🎮 Gaming Workflow
-
-SNAZY V4.0.2 is designed around a simple workflow:
-
-### 1️⃣ Prepare
-
-Open SNAZY and select your preferred gaming profile.
-
-### 2️⃣ Customize
-
-Configure:
-
-- 🎨 Game colors
-- 📱 Display settings
-- 🔕 Gaming DND
-- 📊 Floating status
-- ⚡ Optimization options
-
-### 3️⃣ Boost
-
-Press:
-
-**🚀 BOOST**
-
-SNAZY prepares the device using your selected settings.
-
-### 4️⃣ Play
-
-🎮 Launch your game and play.
-
-### 5️⃣ Restore
-
-After gaming:
-
-**🔄 RESTORE**
-
-Return supported settings to normal.
-
----
-
-# 🧠 Designed for Smarter Gaming
-
-SNAZY V4.0.2 is not designed around one single optimization trick.
-
-Instead, it combines multiple device controls into one interface:
-
-```text
-        🎮 GAME
-           │
-           ▼
-      🚀 SNAZY BOOST
-           │
-     ┌─────┼─────┐
-     ▼     ▼     ▼
-    CPU   RAM   DISPLAY
-     │     │     │
-     └─────┼─────┘
-           ▼
-       🔕 DND
-           │
-           ▼
-      🎨 GAME COLOR
-           │
-           ▼
-      📊 STATUS
-           │
-           ▼
-       🎮 PLAY
+*Feature availability may vary by device, Android version, permissions, and access mode.*
