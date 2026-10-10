@@ -2,6 +2,7 @@
 <p align="center">
   <img src="assets/V4banner.jpg" width="900">
 </p>
+
 ### 🎮 The Ultimate In-Game Gaming Experience
 
 **SNAZY Optimizer V4.2.8** brings a new level of gaming convenience with the all-new **In-Game Super Panel Turbo**. Access essential gaming tools, manage your device, control settings, and customize your gaming experience without leaving your game.
