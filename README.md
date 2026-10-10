@@ -1,17 +1,18 @@
-# 🚀 SNAZY Optimizer V4.2.8
+# 🚀 SNAZY Optimizer V4.3.0
+
 <p align="center">
   <img src="assets/V4banner.jpg" width="900">
 </p>
 
 ### 🎮 The Ultimate In-Game Gaming Experience
 
-**SNAZY Optimizer V4.2.8** brings a new level of gaming convenience with the all-new **In-Game Super Panel Turbo**. Access essential gaming tools, manage your device, control settings, and customize your gaming experience without leaving your game.
+**SNAZY Optimizer V4.3.0** brings a new level of gaming convenience with the all-new **In-Game Super Panel Turbo**. Access essential gaming tools, manage your device, control settings, and customize your gaming experience without leaving your game.
 
 Built for gamers who want more control, better convenience, and a premium gaming interface. ⚡
 
 ---
 
-## 🆕 What's New in V4.2.8
+## 🆕 What's New in V4.3.0
 
 ### 🎮 In-Game Super Panel Turbo
 
@@ -24,7 +25,7 @@ Your gaming tools, all in one place!
 * 🔕 **Do Not Disturb (DND)** — Reduce interruptions while playing.
 * 🔋 **Bypass Charging** — Use supported charging-control features while gaming.
 * 🎛️ **Control Settings** — Access available gaming controls quickly.
-* 🎥 **Screen Recorder** — Access screen recording tools without leaving your game.
+* 🎥 **Screen Recorder** — Access screen recording tools without leaving the game.
 * 💎 **Premium UI** — Enjoy a refined, modern interface designed for gamers.
 
 ### ⚡ Free Turbo Boost
@@ -200,7 +201,7 @@ Not every feature is available in every mode. Shizuku access may need to be reco
 ## 📦 Version Information
 
 * **App:** SNAZY Optimizer
-* **Version:** V4.2.8
+* **Version:** V4.3.0
 * **Developer:** [@sethikaDV](https://github.com/sethikaDV)
 * **Repository:** [SNAZY Optimizer on GitHub](https://github.com/sethikaDV/Snazy-optimizer-)
 
@@ -217,7 +218,7 @@ If you enjoy using SNAZY Optimizer:
 
 ---
 
-### 🚀 SNAZY Optimizer V4.2.8
+### 🚀 SNAZY Optimizer V4.3.0
 
 **Play Smarter. Control More. Game Your Way.** 🎮⚡
 
