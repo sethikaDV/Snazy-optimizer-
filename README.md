@@ -1,225 +1,178 @@
-# 🚀 SNAZY Optimizer V4.3.0
+# 🚀 SNAZY Optimizer V4.4.2
 
 <p align="center">
-  <img src="assets/V4banner.jpg" width="900">
+  <img src="assets/V4banner.jpg" alt="SNAZY Optimizer Banner" width="100%">
 </p>
 
-### 🎮 The Ultimate In-Game Gaming Experience
+<p align="center">
+  **Boost Your Performance. Take Control. Game Smarter.**
+</p>
 
-**SNAZY Optimizer V4.3.0** brings a new level of gaming convenience with the all-new **In-Game Super Panel Turbo**. Access essential gaming tools, manage your device, control settings, and customize your gaming experience without leaving your game.
-
-Built for gamers who want more control, better convenience, and a premium gaming interface. ⚡
+<p align="center">
+  A powerful Android optimization app designed to enhance your gaming experience with smart performance tools, network optimization, in-app purchases, and more.
+</p>
 
 ---
 
-## 🆕 What's New in V4.3.0
+## 🆕 What's New in V4.4.2
+
+### 🛒 In-App Purchases
+
+* Purchase supported premium features directly inside the app.
+* A simpler way to access available premium options.
+* Convenient in-app purchasing experience.
+
+### 💬 In-App Support
+
+* Access support directly from SNAZY Optimizer.
+* Get help with app features and common issues.
+* Find assistance without leaving the app.
+
+### 📢 In-App Announcements
+
+* Stay updated with important announcements.
+* Discover new features, updates, and information.
+* Receive app-related news directly inside SNAZY Optimizer.
+
+### 🌐 Network Boost
+
+* Network optimization tools for gaming.
+* Designed to help improve connection consistency.
+* Helps you manage network-related gaming settings.
+
+*Actual network performance depends on your internet connection, mobile carrier, Wi-Fi quality, and device.*
+
+---
+
+## ⚡ Key Features
 
 ### 🎮 In-Game Super Panel Turbo
 
-Your gaming tools, all in one place!
+* Quick access to supported gaming tools.
+* In-game control panel for a more convenient experience.
+* Access supported features while gaming.
 
-* ⚡ **Free Turbo Boost** — Quickly access available optimization features.
-* 🎵 **In-Game Music Player** — Enjoy your favorite music while gaming.
-* 📊 **In-Game Device Status** — Check supported device information during gameplay.
-* ⏱️ **Gaming Timer** — Keep track of your gaming sessions.
-* 🔕 **Do Not Disturb (DND)** — Reduce interruptions while playing.
-* 🔋 **Bypass Charging** — Use supported charging-control features while gaming.
-* 🎛️ **Control Settings** — Access available gaming controls quickly.
-* 🎥 **Screen Recorder** — Access screen recording tools without leaving the game.
-* 💎 **Premium UI** — Enjoy a refined, modern interface designed for gamers.
+### 🚀 Turbo Boost
 
-### ⚡ Free Turbo Boost
-
-Get quick access to available performance optimization tools with Free Turbo Boost.
-
-* Quick access to supported boost actions.
-* Convenient in-game controls.
-* Designed for a smoother gaming workflow.
-* No need to navigate through multiple screens for supported actions.
-
-*Actual results depend on your device, Android version, and available permissions.*
+* One-tap performance optimization.
+* Designed to prepare your device for gaming.
+* Helps manage background activity.
 
 ### 🎵 In-Game Music Player
 
-Keep your favorite music close while gaming.
+* Enjoy music while playing supported games.
+* Convenient music controls for gaming sessions.
 
-* Convenient music controls.
-* Control your listening experience while playing.
-* Enjoy your gaming sessions with your preferred soundtrack.
+### 📱 Device Status Monitor
 
-### 📊 In-Game Device Status
-
-View supported device information while playing.
-
-* Access useful device status information.
-* Monitor available device indicators.
-* Keep important information within reach.
-
-The information available depends on device compatibility and granted permissions.
+* View supported device status information.
+* Monitor available performance and device indicators.
 
 ### ⏱️ Gaming Timer
 
-Manage your gaming sessions with the built-in timer.
-
-* Track session time.
-* Access the timer from the Super Panel.
-* Keep your gaming routine organized.
+* Use the built-in timer during gaming sessions.
 
 ### 🔕 Gaming Do Not Disturb
 
-Reduce unwanted interruptions during gameplay.
-
-* Quickly access DND controls.
-* Minimize distractions when supported.
-* Stay focused on your game.
-
-Some notification and DND controls may require additional Android permissions.
-
-### 🔋 Bypass Charging
-
-Access charging-control features designed for supported devices.
-
-* Convenient in-game charging controls.
-* Device-dependent charging functionality.
-* Designed to help manage charging during gaming sessions.
-
-**Important:** Bypass charging is not universally supported. Actual functionality depends on your phone's hardware, Android software, and available system-level access. The feature does not guarantee reduced heat or improved battery health.
-
-### 🎛️ In-Game Control Settings
-
-Quickly access supported controls through the Super Panel.
-
-* Convenient control access.
-* Less switching between app screens.
-* A gaming-focused control experience.
-
-### 🎥 Screen Recorder
-
-Capture your gameplay using the available screen recording functionality.
-
-* Quick access to recording controls.
-* Record gameplay when supported.
-* Useful for highlights, tutorials, and sharing gaming moments.
-
-Android may require screen-capture permission before recording begins.
-
----
-
-## 🎨 Previous Features — Still Part of the SNAZY Experience
-
-### 🎨 Real-Time Game Color Changer
-
-Customize your gaming visuals with supported color-changing options.
-
-### 🎨 In-App Color Changer
-
-Personalize the app's appearance to match your style.
-
-### ⚡ Powerful Optimization Engine
-
-Access supported optimization tools designed to help manage device resources during gaming.
-
-### 🎮 Per-Game Display Optimization
-
-Configure supported display settings for individual games.
-
-* Available refresh-rate options.
-* Per-game render-resolution settings.
-* DPI scaling where supported.
-* Boost and Restore workflows.
-* Reset display settings when needed.
-
-Display controls depend on device support and may require Root or Shizuku access.
-
-### 🎯 Pro Sensitivity for Device
-
-Explore game-specific sensitivity starting points based on your selected game and device information.
-
-Supported game options may include:
-
-* Free Fire
-* Free Fire MAX
-* PUBG Mobile
-* BGMI
-* Call of Duty: Mobile
-
-Suggested values are starting points, not guaranteed optimal or professionally measured settings. Fine-tune them in the game's training mode.
-
-### 🧊 Background App Management
-
-Manage supported background-app actions to help reduce unnecessary activity during gaming.
-
-Use caution when restricting apps that handle notifications, calls, alarms, or important background tasks.
-
-### 💎 SNAZY Pro
-
-Access supported premium features through the SNAZY Pro experience. Pro availability and individual features depend on the version and licensing status.
-
-### 🔐 SNAZY Account System
-
-Access the available account features, including Google Login where supported by the installed version.
+* Reduce interruptions while gaming using supported DND controls.
 
 ### 🔋 Charging Optimization
 
-Use available charging-related controls where supported by your device.
+* Access supported charging-related optimization tools.
+
+
+### 🎨 Color Customization
+
+* In-app color customization.
+* Supported game color adjustment tools.
+
+### 🎯 Pro Sensitivity for Device
+
+* Select a supported game.
+* Enter your phone model to receive suggested sensitivity values.
+* Use the suggestions as a starting point and fine-tune them in-game.
+
+### 🖥️ Per-Game Display Optimization
+
+* Configure supported per-game refresh-rate and resolution preferences.
+* Restore display settings when finished.
+* Requires compatible device support and Root or Shizuku access for applicable controls.
+
+### 🧊 Background App Management
+
+* Manage selected background apps during gaming.
+* Restore apps or settings using supported restore controls.
 
 ### 📊 Floating Status Overlay
 
-Access supported floating device information and status indicators when the required permissions are granted.
+* Access supported device status information while gaming.
 
-### 🛠️ Smart Restore
+### 🎥 Screen Recorder
 
-Restore display or other settings that SNAZY has saved and can safely restore. Some system changes may need to be reverted manually.
+* Access screen recording features where supported by your device and Android version.
 
----
+### 👑 SNAZY Pro
 
-## 🔑 Root & Shizuku Support
+* Access available premium features and options.
+* Manage supported Pro features from within the app.
 
-SNAZY provides supported features according to your device's access level.
+### 👤 Account System
 
-* **Root:** Enables compatible advanced system controls.
-* **Shizuku:** Enables supported privileged operations after the service and permissions are configured.
-* **Non-root mode:** Provides features that can run without elevated system access.
+* Sign in with supported Google login functionality.
+* Access account-related features available in your app version.
 
-Not every feature is available in every mode. Shizuku access may need to be reconnected after a reboot or service interruption.
+### 🛠️ Root & Shizuku Support
 
----
-
-## 🛡️ Compatibility & Important Notes
-
-* Android compatibility depends on the feature and installed version.
-* Some functions require additional permissions.
-* Certain controls require Root, Shizuku, or manufacturer support.
-* Screen recording is subject to Android's screen-capture permissions.
-* Color changes and display controls may behave differently across devices.
-* Charging controls cannot bypass hardware limitations.
-* SNAZY does not guarantee a specific FPS increase or temperature reduction.
-* Always use Restore or your device's normal settings if a display configuration causes problems.
+* Root-enabled features on supported rooted devices.
+* Shizuku-based controls for supported non-root devices.
+* Some features require additional permissions or compatible Android versions.
 
 ---
 
-## 📦 Version Information
+## ✨ Designed for a Better Experience
 
-* **App:** SNAZY Optimizer
-* **Version:** V4.3.0
-* **Developer:** [@sethikaDV](https://github.com/sethikaDV)
-* **Repository:** [SNAZY Optimizer on GitHub](https://github.com/sethikaDV/Snazy-optimizer-)
-
----
-
-## ❤️ Support the Project
-
-If you enjoy using SNAZY Optimizer:
-
-* ⭐ Star the GitHub repository.
-* 🐛 Report bugs and compatibility issues.
-* 💡 Share ideas for future improvements.
-* 📢 Share SNAZY with fellow gamers.
+* Modern premium-style interface.
+* Smooth animations and convenient controls.
+* Easy access to gaming tools.
+* Integrated support and announcements.
+* Continuous improvements to performance tools and usability.
 
 ---
 
-### 🚀 SNAZY Optimizer V4.3.0
+## 📱 Compatibility
 
-**Play Smarter. Control More. Game Your Way.** 🎮⚡
+* **Platform:** Android
+* **Android version:** Depends on the feature and device compatibility.
+* **Root:** Required for certain advanced system controls.
+* **Shizuku:** Required for supported non-root system controls.
+* **Internet:** Required for online features such as purchases, account services, and announcements.
 
-*Feature availability may vary by device, Android version, permissions, and access mode.*
+Some features may not work on every device. Availability depends on Android version, manufacturer restrictions, permissions, and hardware support.
+
+---
+
+## ⚠️ Disclaimer
+
+SNAZY Optimizer is an independent Android utility. It cannot guarantee higher FPS, lower ping, or improved internet speeds on every device or network. Results vary depending on device hardware, game settings, and network conditions.
+
+Use system-level features carefully and review any requested permissions before granting access.
+
+---
+
+## 📥 Download
+
+Visit the **[SNAZY Optimizer GitHub Repository](https://github.com/sethikaDV/Snazy-optimizer-)** to find available releases and downloads.
+
+---
+
+## 👨‍💻 Developer
+
+**Developer:** [@sethikaDV](https://github.com/sethikaDV)
+
+**Project:** SNAZY Optimizer
+
+---
+
+<p align="center">
+  **SNAZY Optimizer V4.4.2 — Optimize Smarter. Game Better.** 🚀
+</p>
